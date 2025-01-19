@@ -1,0 +1,40 @@
+
+body{
+    margin: 0%;
+}
+
+.header{background-color: #1f618d;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 17px;
+}
+.logo{width: 150px;}
+
+.header-links button{
+background-color: rgb(184, 91, 96);
+color: #faf6f6;
+border: none;
+}
+
+.landing-page{background-color: rgb(169, 197, 197);
+    display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 17px;
+color: rgb(4, 4, 53);
+}
+
+.landing-page-search input{border-radius: 50px; 
+    outline: none;
+border: none;
+height: 30px;
+}
+.landing-page-search button{
+    position: absolute; 
+    left: 0px;
+    background-color: rgb(184, 91, 96) ;}
+
+.big-pic{width: 600px;}
+
+
